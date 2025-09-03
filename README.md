@@ -1,2 +1,26 @@
-# Druk-Bot-druk-bot
-This website is officially for trek trec
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Pages Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website!</h1>
+  </header>
+  
+  <main>
+    <p>This is a simple website hosted on GitHub Pages.</p>
+    <p>Feel free to explore and customize the content!</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2025 Your Name</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
